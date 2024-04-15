@@ -8,6 +8,6 @@ p {
     padding: auto;
 }
 
-div .card img {
-    height: 35vw !important;
+div .card.CA img {
+    height: 30vw !important;
 }
