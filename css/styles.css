@@ -3,3 +3,11 @@
     height: 20vw;
     object-fit: cover;
 }
+
+p {
+    padding: auto;
+}
+
+div .card img {
+    height: 35vw !important;
+}
