@@ -9,5 +9,7 @@ p {
 }
 
 div .card.CA img {
-    height: 30vw !important;
+    height: auto !important;
+    width: auto !important;
+
 }
