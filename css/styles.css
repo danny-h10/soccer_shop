@@ -9,7 +9,16 @@ p {
 }
 
 div .card.CA img {
-    height: auto !important;
-    width: auto !important;
+    height:  auto !important;
+    width: auto!important;
 
+}
+
+* {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+h3 {
+    font-family: fantasy;
 }
