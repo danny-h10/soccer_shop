@@ -32,3 +32,22 @@ p .copa {
     height: 38vw;
     object-fit: cover;
 }
+
+.padding{
+
+    padding: 5rem !important;
+}
+
+
+
+.form-control:focus {
+   box-shadow: 10px 0px 0px 0px #ffffff !important;
+   border-color: #4ca746;
+}
+
+
+.container {
+    max-width: 960px;
+  }
+  
+  .lh-condensed { line-height: 1.25; }
