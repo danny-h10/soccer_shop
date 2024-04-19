@@ -2,7 +2,7 @@
 
 
 <h1>About the page</h1>
-Welcome to the newest haven for soccer enthusiasts! We are thrilled to announce the grand opening of our soccer shop, where passion meets performance, and every kick ignites the spirit of the beautiful game. Nestled in the heart of [location], our store is a vibrant hub for players, fans, and aficionados alike, offering a curated selection of top-quality gear, apparel, and equipment to elevate your soccer experience. Whether you're a seasoned pro or just kicking off your journey, our knowledgeable staff is here to assist you in finding the perfect fit for your game. Step into our world of soccer and let the excitement begin!
+<p>Welcome to the newest haven for soccer enthusiasts! We are thrilled to announce the grand opening of our soccer shop, where passion meets performance, and every kick ignites the spirit of the beautiful game. Nestled in the heart of [location], our store is a vibrant hub for players, fans, and aficionados alike, offering a curated selection of top-quality gear, apparel, and equipment to elevate your soccer experience. Whether you're a seasoned pro or just kicking off your journey, our knowledgeable staff is here to assist you in finding the perfect fit for your game. Step into our world of soccer and let the excitement begin!</p>
 <ul>
 <li>Home Page</li>
 <li>Services Page</li>
@@ -22,12 +22,12 @@ Welcome to the newest haven for soccer enthusiasts! We are thrilled to announce 
 
 
 
-![alt text](images/home_page.jpg)
-![alt text](images/services.png)
-![alt text](images/signup.png)
-![alt text](images/login.png)
-![alt text](images/cart.png)
-![alt text](images/checkout.png)
+![home page](images/home_page.jpg)
+![services page](images/services.png)
+![singup page](images/signup.png)
+![login page](images/login.png)
+![cart page](images/cart.png)
+![checkout page](images/checkout.png)
 
 
 <br>
